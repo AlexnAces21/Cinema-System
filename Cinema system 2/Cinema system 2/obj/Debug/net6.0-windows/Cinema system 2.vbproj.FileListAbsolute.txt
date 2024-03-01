@@ -1,0 +1,24 @@
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\bin\Debug\net6.0-windows\Cinema system 2.exe
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\bin\Debug\net6.0-windows\Cinema system 2.deps.json
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\bin\Debug\net6.0-windows\Cinema system 2.runtimeconfig.json
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\bin\Debug\net6.0-windows\Cinema system 2.dll
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\bin\Debug\net6.0-windows\Cinema system 2.pdb
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema system 2.vbproj.AssemblyReference.cache
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema_system_2.Form1.resources
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema system 2.vbproj.GenerateResource.cache
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema system 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema system 2.AssemblyInfoInputs.cache
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema system 2.AssemblyInfo.vb
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema system 2.vbproj.CoreCompileInputs.cache
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema system 2.dll
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\refint\Cinema system 2.dll
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema system 2.pdb
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema system 2.genruntimeconfig.cache
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\ref\Cinema system 2.dll
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema_system_2.Form2.resources
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema_system_2.Form3.resources
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema_system_2.Resources.resources
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema_system_2.Form5.resources
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema_system_2.Form4.resources
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema_system_2.Form6.resources
+C:\Users\darke\Documents\Cinema system 2\Cinema system 2\obj\Debug\net6.0-windows\Cinema_system_2.Form7.resources
